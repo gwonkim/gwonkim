@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwonkim&count_private=true)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwonkim&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwonkim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
