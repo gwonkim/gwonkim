@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
    
-GitHub.io 바로가기 : [gwonkim.github.io](https://gwonkim.github.io/, "gwonkim.github.io")
+GitHub.io 바로가기 : [gwonkim.github.io](https://gwonkim.github.io)
    
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwonkim&show_icons=true)
