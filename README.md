@@ -8,13 +8,14 @@ GitHub.io 바로가기 : [gwonkim.github.io](https://gwonkim.github.io)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwonkim&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwonkim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wo41896804@gmail.com)](mailto:wo41896804@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wo41896804@gmail.com)](mailto:jiwonk427@gmail.com)
 
 <!--
 **gwonkim/gwonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwonkim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
