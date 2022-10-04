@@ -12,7 +12,7 @@ GitHub.io 바로가기 : [gwonkim.github.io](https://gwonkim.github.io)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwonkim&show_icons=true)
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wo41896804@gmail.com)](mailto:jiwonk427@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwonk427@gmail.com)](mailto:jiwonk427@gmail.com)
 
 <!--
 **gwonkim/gwonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
