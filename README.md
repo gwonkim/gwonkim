@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwonk427@gmail.com)](mailto:jiwonk427@gmail.com) [jiwonk427@gmail.com](jiwonk427@gmail.com)
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gwonkim.github.io/)](https://gwonkim.github.io/)  [gwonkim.github.io](https://gwonkim.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/블로그-black?style=flat-square&logo=github&link=https://gwonkim.github.io/)](https://gwonkim.github.io/)  [gwonkim.github.io](https://gwonkim.github.io/)
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/이력서-black?style=flat-square&logo=github&link=https://gwonkim.github.io/pin/)](https://gwonkim.github.io/pin/)  [gwonkim.github.io/pin](https://gwonkim.github.io/pin)
