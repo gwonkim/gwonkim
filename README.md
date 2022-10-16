@@ -1,8 +1,14 @@
 # Hello l'm jiwon 👋
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwonk427@gmail.com)](mailto:jiwonk427@gmail.com) [jiwonk427@gmail.com](jiwonk427@gmail.com)
+
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gwonkim.github.io/)](https://gwonkim.github.io/)  [gwonkim.github.io](https://gwonkim.github.io/)
+
+
 [![Tech Blog Badge](http://img.shields.io/badge/이력서-black?style=flat-square&logo=github&link=https://gwonkim.github.io/pin/)](https://gwonkim.github.io/pin/)  [gwonkim.github.io/pin](https://gwonkim.github.io/pin)
+
+
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rispend@naver.com)](mailto:rispend@naver.com) [rispend@naver.com](rispend@naver.com)
 
 ### #관심 언어 및 기술
